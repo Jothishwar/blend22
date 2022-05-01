@@ -1,3 +1,4 @@
+<h1>Blend'22</h1>
 I Participated in a Frontend Web Development competition conducted by Sketch Club in our college.
 
 <h2>Task<h2>

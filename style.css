@@ -394,6 +394,10 @@ time {
 	  left: -289px;
 	  /*250+45-6*/
 	}
+	.projects ul li{
+		height: 75px;
+		margin: 10px 300px;
+	}
 }
 @media(max-width: 425px){
 	body{
@@ -474,6 +478,10 @@ time {
 	  left: -15px;
 	  border-width: 4px 8px 4px 0;
 	  border-color: transparent #f45b69 transparent transparent;
+	}
+	.projects ul li{
+		height: 50px;
+		margin: 5px 100px;
 	}
 }
 .nav-active{
